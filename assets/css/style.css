@@ -794,7 +794,7 @@ footer .container { padding: 80px 15px; }
     top: 50%;
     right: -100px;
     transform: translateY(-50%);
-    background: url("../images/hero.jpg") no-repeat;
+    background: url("../images/hero.png") no-repeat;
     background-size: contain;
     width: 70%;
     padding-bottom: 50%;
